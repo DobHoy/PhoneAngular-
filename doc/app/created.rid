@@ -1,0 +1,10 @@
+Tue, 29 Jul 2014 21:26:01 +0100
+README.rdoc	Fri, 25 Jul 2014 01:23:45 +0100
+app/controllers/application_controller.rb	Fri, 25 Jul 2014 01:23:45 +0100
+app/controllers/phones_controller.rb	Sat, 26 Jul 2014 19:53:26 +0100
+app/controllers/static_pages_controller.rb	Sat, 26 Jul 2014 07:55:44 +0100
+app/helpers/application_helper.rb	Fri, 25 Jul 2014 01:23:45 +0100
+app/helpers/phones_helper.rb	Sat, 26 Jul 2014 19:53:26 +0100
+app/helpers/static_pages_helper.rb	Sat, 26 Jul 2014 07:55:44 +0100
+app/models/phone.rb	Mon, 28 Jul 2014 15:43:34 +0100
+app/uploaders/image_uploader.rb	Mon, 28 Jul 2014 15:46:36 +0100
